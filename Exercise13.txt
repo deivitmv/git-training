@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaaaa
+=======
+bbbbb
+>>>>>>> refs/remotes/origin/master
