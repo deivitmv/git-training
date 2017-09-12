@@ -1,1 +1,1 @@
-conflict eclipse
+conflict github
